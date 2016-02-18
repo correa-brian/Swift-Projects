@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>milkshake systems.xcscheme</key>
+		<key>Project1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D35CDD921C6FADE800DC6900</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D35CDDA61C6FADE900DC6900</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D35CDDB11C6FADE900DC6900</key>
+		<key>D3014D7C1C738F65007F7008</key>
 		<dict>
 			<key>primary</key>
 			<true/>
